@@ -1,0 +1,26 @@
+header{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: chocolate;
+    width: 100%;
+    padding: 35px; 
+    display: block;
+	margin: 0 0 5px;
+	font-size: 20px;
+    border: 1px solid #000000;
+}
+header p{
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.upload{
+    background: chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 300px;
+    padding: 20px;
+    align-items: center;
+    display: block;
+	margin: 0 0 5px;
+	font-size: 20px;
+    border: 1px solid #000000;
+}
