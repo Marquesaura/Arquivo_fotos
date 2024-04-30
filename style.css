@@ -18,9 +18,14 @@ header p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 300px;
     padding: 20px;
-    align-items: center;
+    text-align: center;
     display: block;
 	margin: 0 0 5px;
 	font-size: 20px;
     border: 1px solid #000000;
+}
+.upload :hover {
+	font-size: 20px;
+    padding: 30px;
+    width: 290px;
 }
