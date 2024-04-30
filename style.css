@@ -1,31 +1,24 @@
-header{
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+header, .upload{
     font-size: 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: chocolate;
-    width: 100%;
+    width: 400px;
     padding: 35px; 
     display: block;
 	margin: 0 0 5px;
 	font-size: 20px;
     border: 1px solid #000000;
+    border-radius: 10px;
+    align-items: center;
 }
 header p{
     font-size: 35px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.upload{
-    background: chocolate;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    width: 300px;
-    padding: 20px;
-    text-align: center;
-    display: block;
-	margin: 0 0 5px;
-	font-size: 20px;
-    border: 1px solid #000000;
-}
+
 .upload :hover {
 	font-size: 20px;
-    padding: 30px;
+    padding: 25px;
     width: 290px;
 }
